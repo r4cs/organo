@@ -1,0 +1,20 @@
+.squad {
+    text-align: center;
+    padding: 32px;
+    background-color: #D9F7E9;
+}
+
+.squad h3 {
+    font-size: 32px;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+
+.squad .elements {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}
+

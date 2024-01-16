@@ -1,0 +1,19 @@
+.banner {
+    background-color: #6278F7;
+    display: flex;
+    justify-content: space-between;
+}
+
+.banner img {
+    max-width: 100%;
+    align-self: center;
+    padding: 5px;
+    margin: 2px;
+}
+
+.banner h1 {
+    align-self: end;
+    color: #F0F0F0;
+    margin-left: 5px;
+    padding: 5px;
+}

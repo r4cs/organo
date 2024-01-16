@@ -1,0 +1,31 @@
+footer {
+    max-width: 100%;
+    background-color: #6278F7;
+    /*text-align: center;*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: #F0F0F0;
+    font-size: 24px;
+}
+
+footer .social-media {
+    padding: 75px;
+    margin-top: 10px;
+}
+
+footer .social-media img {
+    padding-right: 32px;
+    margin-left: 50px;
+}
+
+footer .logo {
+    padding: 50px;
+    margin-top: 10px;
+}
+
+footer .development {
+    padding: 55px;
+    margin-right: 50px;
+}
+
