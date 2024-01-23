@@ -1,7 +1,8 @@
 .banner {
     background-color: #6278F7;
     display: flex;
-    justify-content: space-between;
+    /*justify-content: space-between;*/
+    justify-content: space-evenly;
 }
 
 .banner img {
